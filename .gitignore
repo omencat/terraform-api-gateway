@@ -1,0 +1,5 @@
+layer/*
+!layer/.keep
+*.zip
+node_modules/
+.terraform/**/*
